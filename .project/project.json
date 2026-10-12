@@ -1,0 +1,33 @@
+{
+  "$schema": "../schemas/project.schema.json",
+  "project_id": "m_lhaf",
+  "author": {
+    "id": "2002980827"
+  },
+  "entry": "main.lua",
+  "version": "1.0.2",
+  "taptap_publish": {
+    "title": "富种起源",
+    "description": "",
+    "category": "casual",
+    "screen_orientation": "landscape",
+    "collection_type": "sce",
+    "trial_note": "",
+    "app_platforms": "1,2",
+    "app_id": 957333,
+    "developer_id": 481610,
+    "miniapp_id": "tapmck6spsbeslodpw"
+  },
+  "assets": {
+    "icon": "",
+    "screenshots": [],
+    "promotional_image": ""
+  },
+  "metadata": {
+    "updated_at": "2026-10-03T04:12:01.196Z"
+  },
+  "test_qrcode": {
+    "url": "https://tapcode-sce.spark.xd.com/qrcode/m_lhaf_1791000721044.png",
+    "generated_at": "2026-10-03T04:12:01.196Z"
+  }
+}
